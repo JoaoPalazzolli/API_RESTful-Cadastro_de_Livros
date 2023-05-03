@@ -1,0 +1,17 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "yaml.schemas": {
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///c%3A/Users/Joao%20Pedro/Desktop/Projeto%20aprendendo%20o%20JWT%20e%20Spring%20Security/Lista%20de%20Livros%20para%20Presente/listadelivros/src/main/resources/test.yaml"
+    },
+    "cSpell.enableFiletypes": [
+        "java"
+    ],
+    "cSpell.words": [
+        "joao",
+        "listadelivros",
+        "preco",
+        "springframework"
+    ]
+}
